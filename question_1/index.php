@@ -1,9 +1,6 @@
 <?php
 
     session_start();
-
-    // Order of these files is IMPORTANT
-
     include "retrieve.php";
     include "logic.php";
 
